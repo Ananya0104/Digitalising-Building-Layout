@@ -36,4 +36,5 @@ The company has converted the plan view of buildings into bitmaps of size 640 x 
 ## Results
 
 •⁠  ⁠*Design Family Grouping*: Created 36 clusters and achieved 89% accuracy in classifying layouts into these clusters.
+
 •⁠  ⁠*Complexity Classification*: Classified the complexity of layouts based on the number of corners present in the layout.
